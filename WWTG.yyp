@@ -37,6 +37,8 @@
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_default_evie","path":"sprites/spr_default_evie/spr_default_evie.yy",},},
+    {"id":{"name":"spr_white_bricks_tile","path":"sprites/spr_white_bricks_tile/spr_white_bricks_tile.yy",},},
+    {"id":{"name":"ts_white_bricks","path":"tilesets/ts_white_bricks/ts_white_bricks.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
