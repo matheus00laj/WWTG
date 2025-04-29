@@ -18,6 +18,9 @@
   ],
   "ResourceOrderSettings":[
     {"name":"obj_tile_white_brick","order":1,"path":"objects/obj_tile_white_brick/obj_tile_white_brick.yy",},
+    {"name":"spr_first_sprite","order":2,"path":"sprites/spr_first_sprite/spr_first_sprite.yy",},
+    {"name":"spr_mattius","order":5,"path":"sprites/spr_mattius/spr_mattius.yy",},
+    {"name":"spr_walking_witch","order":4,"path":"sprites/spr_walking_witch/spr_walking_witch.yy",},
     {"name":"spr_white_bricks_tile","order":1,"path":"sprites/spr_white_bricks_tile/spr_white_bricks_tile.yy",},
   ],
 }

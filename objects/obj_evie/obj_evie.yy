@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_default_evie",
-    "path":"sprites/spr_default_evie/spr_default_evie.yy",
+    "name":"spr_idle_witch",
+    "path":"sprites/spr_idle_witch/spr_idle_witch.yy",
   },
   "spriteMaskId":null,
   "visible":true,
