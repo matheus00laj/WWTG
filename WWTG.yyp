@@ -35,6 +35,8 @@
   },
   "name":"WWTG",
   "resources":[
+    {"id":{"name":"obj_evie","path":"objects/obj_evie/obj_evie.yy",},},
+    {"id":{"name":"obj_tile_white_brick","path":"objects/obj_tile_white_brick/obj_tile_white_brick.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_default_evie","path":"sprites/spr_default_evie/spr_default_evie.yy",},},
     {"id":{"name":"spr_white_bricks_tile","path":"sprites/spr_white_bricks_tile/spr_white_bricks_tile.yy",},},

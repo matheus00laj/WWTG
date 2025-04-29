@@ -17,6 +17,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_tile_white_brick","order":1,"path":"objects/obj_tile_white_brick/obj_tile_white_brick.yy",},
     {"name":"spr_white_bricks_tile","order":1,"path":"sprites/spr_white_bricks_tile/spr_white_bricks_tile.yy",},
   ],
 }
