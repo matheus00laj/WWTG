@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_tile_white_brick",
+  "%Name":"Object3",
   "eventList":[],
   "managed":true,
-  "name":"obj_tile_white_brick",
+  "name":"Object3",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -26,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"spr_white_bricks_tile",
-    "path":"sprites/spr_white_bricks_tile/spr_white_bricks_tile.yy",
+    "name":"spr_ts_ice_cubes",
+    "path":"sprites/spr_ts_ice_cubes/spr_ts_ice_cubes.yy",
   },
   "spriteMaskId":null,
   "visible":true,

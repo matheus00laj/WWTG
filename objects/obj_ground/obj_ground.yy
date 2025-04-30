@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_ts_ice_cube",
-  "eventList":[],
+  "%Name":"obj_ground",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_ts_ice_cube",
+  "name":"obj_ground",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_ts_ice_cubes",
-    "path":"sprites/spr_ts_ice_cubes/spr_ts_ice_cubes.yy",
+    "name":"Sprite9",
+    "path":"sprites/Sprite9/Sprite9.yy",
   },
   "spriteMaskId":null,
   "visible":true,
