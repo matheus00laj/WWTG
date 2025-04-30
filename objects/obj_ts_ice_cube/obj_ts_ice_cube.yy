@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_evie",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":37,"eventType":5,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_ts_ice_cube",
+  "eventList":[],
   "managed":true,
-  "name":"obj_evie",
+  "name":"obj_ts_ice_cube",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -23,20 +21,15 @@
   "physicsRestitution":0.1,
   "physicsSensor":false,
   "physicsShape":1,
-  "physicsShapePoints":[
-    {"x":0.0,"y":0.0,},
-    {"x":16.0,"y":0.0,},
-    {"x":16.0,"y":16.0,},
-    {"x":0.0,"y":16.0,},
-  ],
+  "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_idle_witch",
-    "path":"sprites/spr_idle_witch/spr_idle_witch.yy",
+    "name":"spr_ts_ice_cubes",
+    "path":"sprites/spr_ts_ice_cubes/spr_ts_ice_cubes.yy",
   },
   "spriteMaskId":null,
   "visible":true,
