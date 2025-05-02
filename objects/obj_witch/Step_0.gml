@@ -33,13 +33,13 @@ if keyboard_check(vk_right) or gamepad_button_check(0, gp_padr){
 //gravidade
 
 
-if(!place_meeting(x, y + 1, obj_ground)){
+
+if(!place_meeting(x, y + 1, obj_ground_collision)){
 	
 	velv = velv + grav;
 
 	
-}
-else{
+}else{
 	velv = 0
 	//pulo
 	if keyboard_check(vk_space) or keyboard_check(vk_up) or gamepad_button_check_pressed(0, gp_face1){
@@ -49,5 +49,6 @@ else{
 
 }
 
-y +=velv;
-x += velh
+y +=	velv;
+x +=	velh;
+

@@ -26,7 +26,7 @@
   ],
   "name":"spr_witchs_broom_item",
   "nineSlice":null,
-  "origin":4,
+  "origin":1,
   "parent":{
     "name":"player",
     "path":"folders/Sprites/player.yy",
@@ -90,7 +90,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":12,
-    "yorigin":12,
+    "yorigin":0,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
