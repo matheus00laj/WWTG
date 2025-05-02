@@ -3,13 +3,14 @@
 
 //controles
 
+
 up = noone;
 down = noone;
 left = noone;
 right = noone;
 grav = 0.2;
 
-tecla = keyboard_key;
+
 
 
 //variaveis de movimento
