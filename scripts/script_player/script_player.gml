@@ -77,7 +77,7 @@ function scr_pulo(){
 
 
 //função para mudar a orientação dos sprites quando andar
-function scr_change_sprite_horizontal(scale, sprite_original, sprite_mudado1, sprite_mudado2){
+function scr_change_sprite_horizontal(scale, sprite_original, sprite_mudado){
 	var _left = keyboard_check(vk_left) or keyboard_check(ord("A")) //or (gamepad_axis_value(global.gamepad_main, gp_axislh) < 0.25) or gamepad_button_check(gamepad_main, gp_padl)
 	var _right = keyboard_check(vk_right) or keyboard_check(ord("D")) //or (gamepad_axis_value(global.gamepad_main, gp_axislh) > 0.25) or gamepad_button_check(gamepad_main, gp_padr)
 	
