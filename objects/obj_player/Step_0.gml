@@ -1,5 +1,5 @@
 //mudando sprite
-scr_change_sprite_horizontal(1, spr_idle_witch, spr_walking_witch, spr_walking_witch_1)
+scr_change_sprite_horizontal(1, spr_idle_witch, spr_walking_witch)
 
 
 
