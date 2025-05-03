@@ -1,6 +1,3 @@
-//variáveis de controle
-gamepad = false;
-keyboard = true;
 
 
 //variaveis de movimentação - teclado
@@ -10,11 +7,6 @@ up				=		noone;
 down			=		noone;
 left			=		noone;
 right			=		noone;
-
-up_gamepad		=		noone;
-down_gamepad	=		noone;
-left_gamepad	=		noone;
-right_gamepad	=		noone;
 
 
 
@@ -40,11 +32,3 @@ gravidade =		0.2;
 
 
 
-//função andar
-function andar(left, right){
-	if(left||right){
-		velh = (right-left)*velocidade
-	}else{
-		velh=0;
-	}
-}
