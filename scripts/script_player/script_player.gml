@@ -84,13 +84,13 @@ function scr_change_sprite_horizontal(scale, sprite_original, sprite_mudado){
 	if _left
 	{
 		image_xscale = -scale
-		sprite_index = sprite_mudado1
+		sprite_index = sprite_mudado
 		
 	}
 	else if _right
 	{
 		image_xscale = scale	
-		sprite_index = sprite_mudado1
+		sprite_index = sprite_mudado
 		
 			
 	}else{
