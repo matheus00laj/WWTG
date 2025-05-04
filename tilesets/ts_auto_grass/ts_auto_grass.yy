@@ -2,7 +2,7 @@
   "$GMTileSet":"v1",
   "%Name":"ts_auto_grass",
   "autoTileSets":[
-    {"$GMAutoTileSet":"","%Name":"autotile_1","closed_edge":true,"name":"autotile_1","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[49,0,0,41,0,48,0,40,0,0,50,42,57,56,58,51,],},
+    {"$GMAutoTileSet":"","%Name":"autotile_1","closed_edge":true,"name":"autotile_1","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[49,61,59,41,45,48,0,40,43,0,50,42,57,56,58,63,],},
   ],
   "macroPageTiles":{
     "SerialiseHeight":0,
