@@ -7,7 +7,7 @@ left	= keyboard_check(vk_left);
 
 
 //velh	= (right - left) *vel;
-
+switch up{case 1:break;}
 //movimentação direita/esquerda
 
 if keyboard_check(vk_right) or gamepad_button_check(0, gp_padr){
