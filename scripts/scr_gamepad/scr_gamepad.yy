@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"gamepad_variaveis",
+  "%Name":"scr_gamepad",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"gamepad_variaveis",
+  "name":"scr_gamepad",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",
