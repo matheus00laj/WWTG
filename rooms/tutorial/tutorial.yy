@@ -26,6 +26,7 @@
     {"name":"inst_378F39EF","path":"rooms/tutorial/tutorial.yy",},
     {"name":"inst_10DA5F86","path":"rooms/tutorial/tutorial.yy",},
     {"name":"inst_7E059BD7","path":"rooms/tutorial/tutorial.yy",},
+    {"name":"inst_43906093","path":"rooms/tutorial/tutorial.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -34,6 +35,7 @@
         {"$GMRInstance":"v2","%Name":"inst_5C0A6D56","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5C0A6D56","objectId":{"name":"obj_broom","path":"objects/obj_broom/obj_broom.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.7,"scaleY":0.7,"x":80.0,"y":943.0,},
         {"$GMRInstance":"v2","%Name":"inst_528FC1C9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_528FC1C9","objectId":{"name":"obj_gamepad","path":"objects/obj_gamepad/obj_gamepad.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-32.0,"y":928.0,},
         {"$GMRInstance":"v2","%Name":"inst_714DE2C6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_714DE2C6","objectId":{"name":"obj_keyboard","path":"objects/obj_keyboard/obj_keyboard.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-64.0,"y":928.0,},
+        {"$GMRInstance":"v2","%Name":"inst_43906093","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_43906093","objectId":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-32.0,"y":896.0,},
       ],"layers":[],"name":"Player","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Level","depth":0,"effectEnabled":true,"effectType":"none","gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_7D0A9283","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7D0A9283","objectId":{"name":"obj_ground_collision","path":"objects/obj_ground_collision/obj_ground_collision.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":81.50001,"scaleY":1.0,"x":0.0,"y":960.0,},

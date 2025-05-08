@@ -11,6 +11,8 @@ scr_andar()
 //criando a gravidade
 scr_gravidade(obj_ground_collision)
 
+if keyboard_check(vk_space) scr_atirar(obj_player, obj_bullet)
+
 
 
 
