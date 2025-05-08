@@ -101,3 +101,14 @@ function scr_change_sprite_horizontal(scale, sprite_original, sprite_mudado){
 	
 }
 
+
+
+//função de atirar um projétil
+function scr_atirar(obj_origin, obj_bullet){
+	var _bullet = instance_create_layer(obj_origin.x, obj_origin.y, 1, obj_bullet)
+	_bullet.speed = 6;
+	_bullet.direction = obj_origin.image_angle;
+	
+	
+
+}
